@@ -1,4 +1,3 @@
-
 # 🌟 SummerInternship2025_22IT033
 
 ## 7TH SEM Summer Internship 2025
@@ -26,6 +25,8 @@ The opportunity to build a real-world healthcare application.
 ## ⏳ Internship Progress ⏳  
 
 ### 🔹 Week 1 – Foundations of AI & ML
+![Chart-run-cycle](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/138d16ff-ec23-47c3-a119-4cf0d091aa8a)
+
 
 Focus: Building strong fundamentals in Machine Learning.
 
@@ -36,6 +37,7 @@ Explored common ML algorithms like Decision Tree, Naïve Bayes, and Support Vect
 Created a presentation on applications of ML in healthcare to build conceptual clarity.
 
 ### 🔹 Week 2 – Data Collection & Preprocessing
+![RGh4](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/165b431f-30a9-4e09-9af4-5624a8ddf799) 
 
 Focus: Working with real-world medical datasets.
 
@@ -89,6 +91,9 @@ Takes symptoms as input.
 Predicts possible diseases using machine learning models.
 
 Provides basic health suggestions for awareness.
+
+<img width="978" height="1272" alt="image" src="https://github.com/user-attachments/assets/5d1c032d-56a2-4ab6-b03e-ffab7bb81991" />
+
 
 ### ⚙️ Features
 
