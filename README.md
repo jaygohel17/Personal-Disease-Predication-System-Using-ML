@@ -1,4 +1,4 @@
-# 🌟 SummerInternship2025_22IT033
+# 🌟 Summer Internship 2025_22IT033
 
 ## 7TH SEM Summer Internship 2025 - Personal Disease Prediction System Using Machine Learning
 
