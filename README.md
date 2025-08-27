@@ -20,6 +20,9 @@ Practical exposure to dataset handling, model training, and evaluation.
 
 The opportunity to build a real-world healthcare application.
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/51c4a41d-3c8f-449b-a950-9723b8cf45c3" />
+
+
 ## ⏳ Internship Progress ⏳  
 
 ### 🔹 Week 1 – Foundations of AI & ML
