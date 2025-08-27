@@ -1,6 +1,6 @@
 # 🌟 SummerInternship2025_22IT033
 
-## 7TH SEM Summer Internship 2025
+## 7TH SEM Summer Internship 2025 - Personal Disease Prediction System Using Machine Learning
 
 Welcome to my GitHub repository for the Summer Internship 2025!
 This repository showcases the journey, learnings, and final project I worked on during my 1-month internship at EDULYT India in the domain of Artificial Intelligence & Machine Learning (AI & ML).
@@ -80,7 +80,7 @@ Basic description, precautions, and remedies for awareness.
 Compiled all work into the final project: Personal Disease Prediction System using Machine Learning.
 
 
-
+# Personal Disease Prediction System Using Machine Learning
 ## 📌 Project Overview
 
 Healthcare is rapidly adopting AI and ML for early diagnosis and decision-making.
